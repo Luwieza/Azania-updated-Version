@@ -1,6 +1,8 @@
 # Azania Restaurant 
 
-![Homepage Screenshot](images/screenshot.png)
+![lighthouse](Food-Restaurant.png)
+
+# TABLE OF CONTENTS
 
 Azania Restaurant is a responsive web application designed to showcase a modern restaurant’s online presence.  
 It allows users to explore the menu, learn about the restaurant’s story, view high-quality images of dishes, and even calculate tips with a built-in **Tip Calculator**.  
