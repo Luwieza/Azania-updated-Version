@@ -60,4 +60,4 @@ To clone this project locally:
 5. Change the current working directory to the location where you want the cloned directory.  
 6. Type:  
    ```bash
-   git clone <URL you copied>
+   git clone <https://github.com/Luwieza/Azania-updated-Version>
