@@ -1,6 +1,8 @@
 # Azania Restaurant 
 
-![lighthouse](Food-Restaurant.png)
+![lighthouse](<img width="1710" height="986" alt="menu_restaurant 2" src="https://github.com/user-attachments/assets/7690e520-1368-433f-afe2-dae31aa94efe" />
+)
+
 
 # TABLE OF CONTENTS
 
