@@ -1,67 +1,63 @@
-# Azania-restuarant
-Deployment
-GitHub Pages
+# Azania Restaurant 
 
-The project was deployed to GitHub Pages using the following steps...
+![Homepage Screenshot](images/screenshot.png)
 
-    Log in to GitHub and locate the GitHub Repository
-    At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
-    Alternatively Click Here for a GIF demonstrating the process starting from Step 2.
-    Scroll down the Settings page until you locate the "GitHub Pages" Section.
-    Under "Source", click the dropdown called "None" and select "Master Branch".
-    The page will automatically refresh.
-    Scroll back down through the page to locate the now published site link in the "GitHub Pages" section.
+Azania Restaurant is a responsive web application designed to showcase a modern restaurant’s online presence.  
+It allows users to explore the menu, learn about the restaurant’s story, view high-quality images of dishes, and even calculate tips with a built-in **Tip Calculator**.  
 
-Forking the GitHub Repository
+This project is useful because it demonstrates how restaurants can use clean design, responsive layouts, and small interactive tools (like the tip calculator) to attract customers, improve user experience, and build credibility online.  
 
-By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
+---
 
-    Log in to GitHub and locate the GitHub Repository
-    At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
-    You should now have a copy of the original repository in your GitHub account.
+## Table of Contents  
+- [Deployment](#deployment)  
+- [Forking the Repository](#forking-the-repository)  
+- [Making a Local Clone](#making-a-local-clone)  
+- [Installation](#installation)  
+- [Usage](#usage)  
+- [Code](#code)  
+- [Content](#content)  
+- [Media](#media)  
+- [Credits](#credits)  
+- [Acknowledgements](#acknowledgements)  
+- [Repository URL](#repository-url)  
+- [About](#about)  
 
-Making a Local Clone
+---
 
-    Log in to GitHub and locate the GitHub Repository
-    Under the repository name, click "Clone or download".
-    To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
-    Open Git Bash
-    Change the current working directory to the location where you want the cloned directory to be made.
-    Type git clone, and then paste the URL you copied in Step 3.
+## Deployment  
 
+The project was deployed to GitHub Pages using the following steps:  
 
-Code
+1. Log in to GitHub and locate the GitHub Repository.  
+2. At the top of the Repository (not the page), locate the **Settings** button on the menu.  
+3. Scroll down the Settings page until you find the **GitHub Pages** section.  
+4. Under **Source**, click the dropdown called **None** and select **Master Branch**.  
+5. The page will automatically refresh.  
+6. Scroll back down to locate the now published site link in the **GitHub Pages** section.  
 
-    The full-screen hero image code came from Pixel.com
+---
 
-    Bootstrap5: Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
- 
-    # This function was adapted from: WixStudio
-    def my_function():
-    # code implemented on the content and one image
+## Forking the Repository  
 
-    
+Forking allows you to create a copy of the original repository in your GitHub account so you can view and/or make changes without affecting the original.  
 
-    
-Content
+Steps:  
+1. Log in to GitHub and locate the Repository.  
+2. At the top of the Repository, just above the **Settings** button, locate the **Fork** button.  
+3. You should now have a copy of the original repository in your GitHub account.  
 
-    All content was written by the developer, some few parts from Wixstudio.
+---
 
-    Psychological properties of colours text in the README.md was found here
+## Making a Local Clone  
 
-Media
+To clone this project locally:  
 
-    All Images were imported from Pixel.com
-
-Acknowledgements
-
-
-About
-
-A sample README.md file
-Resources
-Readme
-Activity
-No releases published
-Packages
-No packages published 
+1. Log in to GitHub and locate the Repository.  
+2. Under the repository name, click **Clone or download**.  
+3. To clone using HTTPS, under **Clone with HTTPS**, copy the link.  
+4. Open **Git Bash**.  
+5. Change the current working directory to the location where you want the cloned directory.  
+6. Type:  
+   ```bash
+   git clone <URL you copied>
